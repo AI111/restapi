@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">nodejs Lab3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="server_url">https://nodejsoauth-umap.rhcloud.com</string>
+    <string name="all_personse">/api/people</string>
+</resources>
